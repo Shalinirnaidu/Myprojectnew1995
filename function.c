@@ -8,5 +8,9 @@ Function2()
 { 
 iiiiiiiiiiiiiiiiiiii
 iiiiiiiiiiiiiiiiiiii
+Function3()
+{
+sjiajsdhisdiks
+jsnndksdl
 }
 }
